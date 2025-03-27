@@ -8,6 +8,10 @@
     <meta name="keywords" content="immaculata, ics2o">
     <meta name="author" content="Ms Raffin">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    language = "php7"
+    run = "php -S 0.0.0.0:8000 -t ."
+    entrypoint = "index.php"
+
 // This is the section for Favicons
     <link rel="apple-touch-icon" sizes="180x180" href="./Favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./Favicons/favicon-32x32.png">
